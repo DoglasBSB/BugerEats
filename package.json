@@ -1,0 +1,22 @@
+{
+  "name": "bugereats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoglasBSB/BugerEats.git"
+  },
+  "author": "Francisco Dôglas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoglasBSB/BugerEats/issues"
+  },
+  "homepage": "https://github.com/DoglasBSB/BugerEats#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
